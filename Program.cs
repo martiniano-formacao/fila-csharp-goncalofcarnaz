@@ -17,6 +17,7 @@ namespace Queue1
             */
 
             //_______ cidades = { _________ };
+            string[] cidades = { "Coimbra", "Lisboa", "Porto", "Faro" };
 
             /*
                 2 - Completar a declaração de uma queue, chamada cidades2, do tipo string 
